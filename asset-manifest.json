@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/theme-picker/static/css/main.073c9b0a.css",
-    "main.js": "/theme-picker/static/js/main.17dbe685.js",
+    "main.css": "/theme-picker/static/css/main.1ae03ea8.css",
+    "main.js": "/theme-picker/static/js/main.01e042cc.js",
     "static/js/787.fe507114.chunk.js": "/theme-picker/static/js/787.fe507114.chunk.js",
-    "static/media/logo.svg": "/theme-picker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/David.jpg": "/theme-picker/static/media/David.46d521552c72dcf082e0.jpg",
+    "static/media/Nick.png": "/theme-picker/static/media/Nick.8dc5494528cd974f922d.png",
+    "static/media/Davy.png": "/theme-picker/static/media/Davy.36d200378323e8c3a99a.png",
+    "static/media/Andy.png": "/theme-picker/static/media/Andy.a2fd06929b2c724db364.png",
+    "static/media/Juan.png": "/theme-picker/static/media/Juan.2d8e80c204b927a2083c.png",
+    "static/media/Ver.JPG": "/theme-picker/static/media/Ver.e6a5a9b0b54368c43a7e.JPG",
+    "static/media/Akhil.JPG": "/theme-picker/static/media/Akhil.58b4d718a47142563a9f.JPG",
+    "static/media/leo.JPG": "/theme-picker/static/media/leo.9bb06b6bb53b249ad107.JPG",
+    "static/media/Tyler.JPG": "/theme-picker/static/media/Tyler.ed95db96c29214ccc5ac.JPG",
+    "static/media/Marcos.JPG": "/theme-picker/static/media/Marcos.f6b6d44194d04b5fa298.JPG",
+    "static/media/Jiebo.JPG": "/theme-picker/static/media/Jiebo.712dc6e719a6f9035573.JPG",
+    "static/media/Jonathan.jpg": "/theme-picker/static/media/Jonathan.3c875394c97f704d5fe3.jpg",
+    "static/media/Shirley.JPG": "/theme-picker/static/media/Shirley.386895591288678ce4c4.JPG",
     "index.html": "/theme-picker/index.html",
-    "main.073c9b0a.css.map": "/theme-picker/static/css/main.073c9b0a.css.map",
-    "main.17dbe685.js.map": "/theme-picker/static/js/main.17dbe685.js.map",
+    "main.1ae03ea8.css.map": "/theme-picker/static/css/main.1ae03ea8.css.map",
+    "main.01e042cc.js.map": "/theme-picker/static/js/main.01e042cc.js.map",
     "787.fe507114.chunk.js.map": "/theme-picker/static/js/787.fe507114.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.17dbe685.js"
+    "static/css/main.1ae03ea8.css",
+    "static/js/main.01e042cc.js"
   ]
 }
