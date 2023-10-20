@@ -11,10 +11,12 @@
     "@types/node": "^20.8.7",
     "@types/react": "^18.2.30",
     "@types/react-dom": "^18.2.14",
+    "@typescript-eslint/eslint-plugin": "^6.8.0",
+    "@typescript-eslint/parser": "^6.8.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-roulette-pro": "^3.0.5",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "react-wheel-of-prizes": "^1.0.9",
     "typescript": "^5.2.2",
     "web-vitals": "^2.1.4"

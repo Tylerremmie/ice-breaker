@@ -1,0 +1,8 @@
+.question-text {
+    font-size: 8vh;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1;
+
+    text-shadow: 1px 1px 10px #000000;
+}

@@ -1,11 +1,18 @@
-.App {
-    background-color: black;
+body {
+    background-color: #000;
+    background-size: cover;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+    color: #fff;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 900;
 }
 
-.Component-Container {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    text-align: center;
 }
