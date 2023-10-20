@@ -1,28 +1,15 @@
 {
   "files": {
-    "main.css": "/theme-picker/static/css/main.1ae03ea8.css",
-    "main.js": "/theme-picker/static/js/main.46ecb06b.js",
-    "static/js/787.fe507114.chunk.js": "/theme-picker/static/js/787.fe507114.chunk.js",
-    "static/media/David.jpg": "/theme-picker/static/media/David.46d521552c72dcf082e0.jpg",
-    "static/media/Nick.png": "/theme-picker/static/media/Nick.8dc5494528cd974f922d.png",
-    "static/media/Davy.png": "/theme-picker/static/media/Davy.36d200378323e8c3a99a.png",
-    "static/media/Andy.png": "/theme-picker/static/media/Andy.a2fd06929b2c724db364.png",
-    "static/media/Juan.png": "/theme-picker/static/media/Juan.2d8e80c204b927a2083c.png",
-    "static/media/Ver.JPG": "/theme-picker/static/media/Ver.e6a5a9b0b54368c43a7e.JPG",
-    "static/media/Akhil.JPG": "/theme-picker/static/media/Akhil.58b4d718a47142563a9f.JPG",
-    "static/media/leo.JPG": "/theme-picker/static/media/leo.9bb06b6bb53b249ad107.JPG",
-    "static/media/Tyler.JPG": "/theme-picker/static/media/Tyler.ed95db96c29214ccc5ac.JPG",
-    "static/media/Marcos.JPG": "/theme-picker/static/media/Marcos.f6b6d44194d04b5fa298.JPG",
-    "static/media/Jiebo.JPG": "/theme-picker/static/media/Jiebo.712dc6e719a6f9035573.JPG",
-    "static/media/Jonathan.jpg": "/theme-picker/static/media/Jonathan.3c875394c97f704d5fe3.jpg",
-    "static/media/Shirley.JPG": "/theme-picker/static/media/Shirley.386895591288678ce4c4.JPG",
-    "index.html": "/theme-picker/index.html",
-    "main.1ae03ea8.css.map": "/theme-picker/static/css/main.1ae03ea8.css.map",
-    "main.46ecb06b.js.map": "/theme-picker/static/js/main.46ecb06b.js.map",
-    "787.fe507114.chunk.js.map": "/theme-picker/static/js/787.fe507114.chunk.js.map"
+    "main.css": "/ice-breaker/static/css/main.46b457e5.css",
+    "main.js": "/ice-breaker/static/js/main.52cbe238.js",
+    "static/js/787.3fb2e4dd.chunk.js": "/ice-breaker/static/js/787.3fb2e4dd.chunk.js",
+    "index.html": "/ice-breaker/index.html",
+    "main.46b457e5.css.map": "/ice-breaker/static/css/main.46b457e5.css.map",
+    "main.52cbe238.js.map": "/ice-breaker/static/js/main.52cbe238.js.map",
+    "787.3fb2e4dd.chunk.js.map": "/ice-breaker/static/js/787.3fb2e4dd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ae03ea8.css",
-    "static/js/main.46ecb06b.js"
+    "static/css/main.46b457e5.css",
+    "static/js/main.52cbe238.js"
   ]
 }
