@@ -6,6 +6,7 @@ import './iceBreakerQuestions.css';
 
 const IceBreakerQuestion: FunctionComponent = () => {
     const [pickedQuestion, setQuestion] = useState('Click to create a question.');
+    const [wasQuestionChosen, setQuestionChosen] = useState(false);
 
     useEffect(() => {
         if (localStorage.getItem("questions") === null) {
@@ -20,9 +21,10 @@ const IceBreakerQuestion: FunctionComponent = () => {
 
         const newQuestions = storageQuestions.filter(question => question !== randomQuestion);
         localStorage.setItem("questions", JSON.stringify(newQuestions));
+        setQuestionChosen(true);
     }, []);
 
-    return (<div className='question-text' onClick={handleGenerateQuestion}>{pickedQuestion}</div>);
+    return (<div className='question-text' onClick={wasQuestionChosen ? undefined : handleGenerateQuestion}>{pickedQuestion}</div>);
 }
 
 export default IceBreakerQuestion;
